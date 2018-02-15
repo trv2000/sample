@@ -1,0 +1,3 @@
+defect - please fill all fields on top window
+font of orange button
+Investment_Strategy__c
